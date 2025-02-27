@@ -1869,4 +1869,5 @@ se7en.es, 212459, RESELLER, 064bc410192443d8
 start.io, smt, RESELLER
 vidoomy.com, 4350252, RESELLER
 webeyemob.com, 70107, RESELLER
-google.com, pub-9692932030257265, DIRECT, f08c47fec0942fa0
+google.com, pub-3825663879411775, DIRECT, f08c47fec0942fa0
+
